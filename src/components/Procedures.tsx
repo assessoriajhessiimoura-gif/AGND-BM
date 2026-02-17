@@ -25,25 +25,25 @@ const procedures: Procedure[] = [
     name: 'Volume Fox Marrom',
     price: 165.00,
     maintenancePrice: 110.00,
-    image: '/WhatsApp_Image_2026-02-16_at_14.40.49.jpeg'
+    image: '/WhatsApp_Image_2026-02-16_at_12.14.06.jpeg'
   },
   {
     name: 'Volume Express',
     price: 165.00,
     maintenancePrice: 110.00,
-    image: '/WhatsApp_Image_2026-02-16_at_14.40.49_(1).jpeg'
+    image: '/WhatsApp_Image_2026-02-16_at_14.40.49.jpeg'
   },
   {
     name: 'Volume Europeu',
     price: 165.00,
     maintenancePrice: 110.00,
-    image: '/WhatsApp_Image_2026-02-16_at_12.14.05.jpeg'
+    image: '/WhatsApp_Image_2026-02-16_at_12.14.07_(2).jpeg'
   },
   {
     name: 'Mega Volume',
     price: 180.00,
     maintenancePrice: 120.00,
-    image: '/WhatsApp_Image_2026-02-16_at_12.14.06_(1).jpeg'
+    image: '/WhatsApp_Image_2026-02-16_at_12.14.07_(1).jpeg'
   },
 ];
 
